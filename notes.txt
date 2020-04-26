@@ -1,0 +1,22 @@
+possible modules to use
+
+
+react-responsive-carousel https://www.npmjs.com/package/react-responsive-carousel
+could be good as a gallery display if i can make it open on a specific image
+
+react-backgorund-slider https://www.npmjs.com/package/react-background-slider
+maybe for homepage background
+
+pretty nice image viewer https://reactjsexample.com/react-component-for-image-displaying-in-full-screen/
+
+this is an okay carousel https://reactjsexample.com/a-react-way-react-component-that-does-not-suck/
+
+This is a killer photo gallery element: https://github.com/neptunian/react-photo-gallery
+especially the one with lightbox
+
+this is really nice, oto https://reactjsexample.com/simple-photo-gallery-based-on-react-and-inspired-on-airbnb-image-gallery/
+
+
+this checks off pretty much all the boxes, including captions: https://benhowell.github.io/react-grid-gallery/
+    either the  custom overlay example or the thumbnail captions exampls will probably be the best bet
+
