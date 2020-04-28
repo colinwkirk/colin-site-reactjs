@@ -1,10 +1,10 @@
 import React from 'react';
 import Gallery from 'react-grid-gallery';
-import styled from "styled-components";
-import ReactDOM from 'react-dom';
+//import styled from "styled-components";
+//import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 
-const GridWrapper = styled.div`
+/*const GridWrapper = styled.div`
   display: grid;
   grid-gap: 10px;
   margin-top: 1em;
@@ -12,7 +12,7 @@ const GridWrapper = styled.div`
   margin-right: 6em;
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: minmax(25px, auto);
-`;
+`;*/
 
 function shuffleArray(array) {
   let i = array.length - 1;

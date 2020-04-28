@@ -1,5 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
+import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
+
 const GridWrapper = styled.div`
   display: grid;
   grid-gap: 10px;
